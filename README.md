@@ -1,7 +1,8 @@
 # comp456
 
 A Clojure library designed to find the shortest acyclic path in a graph.
-Used as an assignment for intro to artifical intelligence course.
+
+This project was used as an assignment for an introduction to artifical intelligence course.
 
 ## Usage
 
